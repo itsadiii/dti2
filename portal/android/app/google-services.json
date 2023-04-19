@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "981470008330",
+    "project_id": "dtiproject-a6fa9",
+    "storage_bucket": "dtiproject-a6fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981470008330:android:47b992690a6df8a82d3bf3",
+        "android_client_info": {
+          "package_name": "com.example.portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981470008330-juoh9vqbftdrc8ptf0snse81pv8s3l5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVsMnorT8TxNHgxBIGNbst6hxybE3oYn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981470008330-juoh9vqbftdrc8ptf0snse81pv8s3l5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "981470008330-ldg1lqi8htcqp4p0nhi7jbdjn3qgs8m6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.portal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
